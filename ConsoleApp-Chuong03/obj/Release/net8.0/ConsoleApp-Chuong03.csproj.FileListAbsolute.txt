@@ -1,0 +1,4 @@
+D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Release\net8.0\ConsoleApp-Chuong03.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Release\net8.0\ConsoleApp-Chuong03.AssemblyInfoInputs.cache
+D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Release\net8.0\ConsoleApp-Chuong03.AssemblyInfo.cs
+D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Release\net8.0\ConsoleApp-Chuong03.csproj.CoreCompileInputs.cache
