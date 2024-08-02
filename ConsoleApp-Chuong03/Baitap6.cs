@@ -84,7 +84,6 @@ namespace ConsoleApp_Chuong03
                 //Cộng số hạng vào tổng giá trị của e^x
                 eX += term;
             }
-
             return eX;
         }
 

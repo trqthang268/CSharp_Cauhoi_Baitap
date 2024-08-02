@@ -12,3 +12,4 @@ D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Debug\net8.0\refint\ConsoleApp-Chuong
 D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Debug\net8.0\ConsoleApp-Chuong03.pdb
 D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Debug\net8.0\ConsoleApp-Chuong03.genruntimeconfig.cache
 D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Debug\net8.0\ref\ConsoleApp-Chuong03.dll
+D:\chuong-2-C#.NET\ConsoleApp-Chuong03\obj\Debug\net8.0\ConsoleApp-Chuong03.sourcelink.json

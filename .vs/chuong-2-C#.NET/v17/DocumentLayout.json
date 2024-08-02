@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\chuong-2-C#.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\Baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Lythuyet.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\Lythuyet.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\ViduMang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\vidu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\CauhoiBaitap.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\CauhoiBaitap.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp-Chuong02\\Program.cs",
-              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
-              "RelativeToolTip": "ConsoleApp-Chuong02\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:04:01.848Z",
+              "DocumentIndex": 1,
+              "Title": "Lythuyet.txt",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Lythuyet.txt",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\Lythuyet.txt",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Lythuyet.txt",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\Lythuyet.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-02T01:23:15.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "vidu.cs",
-              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs",
-              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\vidu.cs",
-              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs",
-              "RelativeToolTip": "ConsoleApp-Chuong03\\vidu.cs",
+              "Title": "CauhoiBaitap.txt",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\CauhoiBaitap.txt",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\CauhoiBaitap.txt",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\CauhoiBaitap.txt",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\CauhoiBaitap.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:03:58.965Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-02T01:20:38.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Baitap.cs",
-              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs",
-              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\Baitap.cs",
-              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs",
-              "RelativeToolTip": "ConsoleApp-Chuong03\\Baitap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ViduMang.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\ViduMang.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\ViduMang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:39:14.624Z",
+              "WhenOpened": "2024-08-02T01:20:35.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\Program.cs",
-              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs",
-              "RelativeToolTip": "ConsoleApp-Chuong03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\Program.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:39:13.348Z",
+              "WhenOpened": "2024-08-02T01:20:33.609Z",
               "EditorCaption": ""
             }
           ]
