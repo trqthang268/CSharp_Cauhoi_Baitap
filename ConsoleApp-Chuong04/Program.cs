@@ -16,7 +16,7 @@
                 |    w3         |   151 – 200       |    600 / KW
                 |    w4         |   > 200           |    650/ KW
             */
-            //Baitap02.TinhTienDien();
+            Baitap02.TinhTienDien();
             /*
                 3) Nhập số liệu cho 2 dãy số thực a0 , a1 ,..., am-1 và b0 , b1 ,..., bn-1. Giả sử cả 2 dãy này đã được
                 sắp theo thứ tự tăng dần. Hãy tận dụng tính sắp xếp của 2 dãy và tạo dãy c0 , c1 ,..., cm+n-1 là hợp
@@ -36,7 +36,7 @@
             /*
                 5) Tìm ma trận nghịch đảo của ma trận vuông cấp n bằng phương pháp khử Gauss-Jordan.
             */
-            Baitap05.MaTranNghichDao();
+            //Baitap05.MaTranNghichDao();
         }
     }
 }

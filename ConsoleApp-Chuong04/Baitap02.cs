@@ -10,32 +10,38 @@ namespace ConsoleApp_Chuong04
     {
         public static void TinhTienDien()
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Write("Nhập tổng số tiền điện tiêu thụ (KW): ");
-            int totalKW = int.Parse(Console.ReadLine());
+            int tongSoDien = int.Parse(Console.ReadLine());
 
-            int totalCost = 0;
+            int tongTien = 0;
             //tinh theo từng mức đã cho 
-            if (totalKW < 0)
+            if (tongSoDien < 0)
             {
                 Console.WriteLine("Số điện không được là số âm!");
+                return;
             }
-            else if (totalKW <= 100)
+            //Các giới hạn của từng mức tiêu thụ điện
+            int[] gioihan = { 100, 50, 50 };
+            //Các giá trị tương ứng tiêu thụ điện
+            int[] giatri = { 500, 550, 600, 650 };
+
+            for (int i = 0; i < gioihan.Length && tongSoDien >0; i++)
             {
-                totalCost = totalKW * 500;
+                int dientieuthu = Math.Min(tongSoDien, gioihan[i]);
+                tongTien += dientieuthu * giatri[i];
+                tongSoDien -= dientieuthu;
             }
-            else if (totalKW <= 150)
+
+            //Tính chi phí cho phần điện tiêu thụ còn lại nếu vượt quá các giới hạn đã cho
+            if (tongSoDien > 0)
             {
-                totalCost = (100 * 500) + ((totalKW - 100) * 550);
+                tongTien += tongSoDien * giatri[gioihan.Length];
             }
-            else if (totalKW <= 200)
-            {
-                totalCost = (100 * 500) + (50 * 550) + ((totalKW - 150) * 600);
-            }
-            else
-            {
-                totalCost = (100 * 500) + (50 * 550) + (50 * 600) + ((totalKW - 200) * 650);
-            }
-            Console.WriteLine("Tong tien dien phai dong la : " + totalCost + " đồng");
+
+            Console.WriteLine("Tông số tiền điện phải trả là : " + tongTien + " đồng");
         }
+
+
     }
 }

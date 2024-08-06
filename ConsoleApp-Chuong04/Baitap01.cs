@@ -11,7 +11,7 @@ namespace ConsoleApp_Chuong04
         public static void ChangeForBinary()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.Write("Nhap mot so nguyen o he thap phan: ");
+            Console.Write("Nhập một số nguyên ở hệ thập phân: ");
             int decimalNum = int.Parse(Console.ReadLine());
             string binaryNumber = "";
             while(decimalNum > 0)

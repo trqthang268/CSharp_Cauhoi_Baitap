@@ -10,19 +10,20 @@ namespace ConsoleApp_Chuong04
     {
         public static void SapxepKethopHaiMang()
         {
-            Console.WriteLine("Nhap so luong phan tu cua day a: ");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Nhập số lượng phần tử của dãy a: ");
             int soptA = int.Parse(Console.ReadLine());
             double[] a = new double[soptA];
-            Console.WriteLine("Nhap cac phan tu cua day a (tang dan)");
+            Console.WriteLine("Nhập các phần tử của dãy a (giá trị tăng dần)");
             for (int i = 0; i < soptA; i++)
             {
                 a[i] = double.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("Nhap so luong phan tu cua day b: ");
+            Console.WriteLine("Nhập số lượng phần tử của dãy b: ");
             int soptB = int.Parse(Console.ReadLine());
             double[] b = new double[soptB];
-            Console.WriteLine("Nhap cac phan tu cua day b (tang dan)");
+            Console.WriteLine("Nhập các phần tử của dãy b (giá trị tăng dần)");
             for (int i = 0; i < soptB; i++)
             {
                 b[i] = double.Parse(Console.ReadLine());

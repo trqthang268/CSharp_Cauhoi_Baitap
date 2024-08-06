@@ -10,7 +10,8 @@ namespace ConsoleApp_Chuong04
     {
         public static void XoaDauCach()
         {
-            Console.WriteLine("Nhap chuoi : ");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Nhập chuỗi : ");
             string input = Console.ReadLine();
 
             //khởi tạo một StringBuilder để xây dựng chuỗi kết quả
@@ -44,7 +45,7 @@ namespace ConsoleApp_Chuong04
                 result.Length--;
             }
 
-            Console.WriteLine("Chuoi sau khi loai bo dau cach thua: "+result.ToString());
+            Console.WriteLine("Chuỗi sau khi loại bỏ dấu cách thừa: "+result.ToString());
 
         }
     }
