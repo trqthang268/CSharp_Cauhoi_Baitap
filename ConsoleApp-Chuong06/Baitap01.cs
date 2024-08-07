@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace ConsoleApp_Chuong06
 {
@@ -23,14 +24,14 @@ namespace ConsoleApp_Chuong06
             Parallelogram parallelogram = new Parallelogram(p1, p2, p3, p4);
             Rhombus rhombus = new Rhombus(p1, p2, p3, p4);
 
-            Console.WriteLine(line);
-            Console.WriteLine(circle);
-            Console.WriteLine(rectangle);
-            Console.WriteLine(square);
-            Console.WriteLine(triangle);
-            Console.WriteLine(parallelogram);
-            Console.WriteLine(rhombus);
-            Console.WriteLine();
+            WriteLine(line);
+            WriteLine(circle);
+            WriteLine(rectangle);
+            WriteLine(square);
+            WriteLine(triangle);
+            WriteLine(parallelogram);
+            WriteLine(rhombus);
+            WriteLine();
         }
 
     }
@@ -64,7 +65,7 @@ public class Shape
 {
     public virtual void Draw()
     {
-        Console.WriteLine("Drawing a shape");
+        WriteLine("Drawing a shape");
     }
 }
 
@@ -84,7 +85,7 @@ public class Point : Shape //Điểm
 
     public override void Draw() 
     {
-        Console.WriteLine($"Drawing a point at ({X}, {Y})");
+        WriteLine($"Drawing a point at ({X}, {Y})");
     }
     
 }
@@ -102,7 +103,7 @@ public class LineSegment  : Shape //đoạn thẳng
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a line segment from {Start} to {End}");
+        WriteLine($"Drawing a line segment from {Start} to {End}");
     }
 
     public override string ToString()
@@ -124,7 +125,7 @@ public class Circle : Shape //Hinh tron
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a circle with center at {Center} and radius {Radius}");
+        WriteLine($"Drawing a circle with center at {Center} and radius {Radius}");
     }
 
     public override string ToString()
@@ -148,7 +149,7 @@ public class Rectangle : Shape //Hinh chu nhat
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a rectangle with top left corner at {TopLeft}, width {Width}, and height {Height}");
+        WriteLine($"Drawing a rectangle with top left corner at {TopLeft}, width {Width}, and height {Height}");
     }
 
     public override string ToString()
@@ -170,7 +171,7 @@ public class Square : Shape //hinh vuong
 
     public override void Draw()
     {
-    Console.WriteLine($"Drawing a square with top left corner at {TopLeft} and side lenght {SideLength}");
+        WriteLine($"Drawing a square with top left corner at {TopLeft} and side lenght {SideLength}");
     }
 
     public override string ToString()
@@ -194,7 +195,7 @@ public class Triangle : Shape  //tam giac
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a triangle with vertices at {Vertex1}, {Vertex2}, and {Vertex3}");
+        WriteLine($"Drawing a triangle with vertices at {Vertex1}, {Vertex2}, and {Vertex3}");
     }
 
     public override string ToString()
@@ -220,7 +221,7 @@ public class Parallelogram : Shape  //Hinh binh hanh
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a parallelogram with vertices at {Vertex1}, {Vertex2}, {Vertex3}, and {Vertex4}");
+        WriteLine($"Drawing a parallelogram with vertices at {Vertex1}, {Vertex2}, {Vertex3}, and {Vertex4}");
     }
 
     public override string ToString()
@@ -246,7 +247,7 @@ public class Rhombus : Shape //Hinh thoi
 
     public override void Draw()
     {
-        Console.WriteLine($"Drawing a rhombus with vertices at {Vertex1}, {Vertex2}, {Vertex3}, and {Vertex4}");
+        WriteLine($"Drawing a rhombus with vertices at {Vertex1}, {Vertex2}, {Vertex3}, and {Vertex4}");
     }
 
     public override string ToString()
