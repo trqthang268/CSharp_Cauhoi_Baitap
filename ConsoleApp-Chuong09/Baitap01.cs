@@ -48,7 +48,7 @@ namespace Dell
             // Tạo đối tượng từ lớp Laptops trong không gian tên Sony
             Sony.Laptops objSonyLaptop = new Sony.Laptops();
 
-            // Tạo đối tượng từ lớp Player lồng bên trong lớp Laptops của Sony (tùy chọn)
+            // Tạo đối tượng từ lớp Player lồng bên trong lớp Laptops của Sony 
             Sony.Laptops.Player objSonyPlayer = new Sony.Laptops.Player();
         }
     }
