@@ -201,7 +201,7 @@ namespace Chuong08
                 }
             }
         }
-        static void Tester( )
+        static void Tester()
         {
             int size = 10;
             OvrIndexer myInd = new OvrIndexer(size);

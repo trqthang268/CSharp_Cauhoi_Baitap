@@ -82,14 +82,14 @@ namespace ConsoleApp_Chuong06
     }
     /*Vi du minh hoa tu khoa new*/
     public class BaseC
-       
+
     {
-            public int x = 55;
+        public int x = 55;
 
     }
     public class DerivedC : BaseC
-    {       
-    new public int x = 100;// tu khoa new de an di 'x' trong lop BaseC
+    {
+        new public int x = 100;// tu khoa new de an di 'x' trong lop BaseC
         void show()
         {
             Console.WriteLine(x);

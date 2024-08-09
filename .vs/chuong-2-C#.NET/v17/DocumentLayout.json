@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -68,7 +72,7 @@
               "RelativeDocumentMoniker": "ConsoleApp-Chuong02\\Program.cs",
               "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
               "RelativeToolTip": "ConsoleApp-Chuong02\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T01:00:10.826Z",
               "EditorCaption": ""
