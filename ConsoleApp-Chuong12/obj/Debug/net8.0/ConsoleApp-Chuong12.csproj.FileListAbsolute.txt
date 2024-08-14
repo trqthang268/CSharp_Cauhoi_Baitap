@@ -1,0 +1,15 @@
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\bin\Debug\net8.0\ConsoleApp-Chuong12.exe
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\bin\Debug\net8.0\ConsoleApp-Chuong12.deps.json
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\bin\Debug\net8.0\ConsoleApp-Chuong12.runtimeconfig.json
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\bin\Debug\net8.0\ConsoleApp-Chuong12.dll
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\bin\Debug\net8.0\ConsoleApp-Chuong12.pdb
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.AssemblyInfoInputs.cache
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.AssemblyInfo.cs
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.csproj.CoreCompileInputs.cache
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.sourcelink.json
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.dll
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\refint\ConsoleApp-Chuong12.dll
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.pdb
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ConsoleApp-Chuong12.genruntimeconfig.cache
+D:\chuong-2-C#.NET\ConsoleApp-Chuong12\obj\Debug\net8.0\ref\ConsoleApp-Chuong12.dll
