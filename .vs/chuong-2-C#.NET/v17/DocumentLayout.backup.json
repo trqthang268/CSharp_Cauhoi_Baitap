@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\chuong-2-C#.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\Baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong03\\vidu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\ViduMang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\Baitap02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp-Chuong04\\Baitap01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 207,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong02\\Program.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong02\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:00:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cauhoi-Chuong02.txt",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt",
+              "RelativeToolTip": "ConsoleApp-Chuong02\\Cauhoi-Chuong02.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-05T00:59:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baitap.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\Baitap.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Baitap.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong03\\Baitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:59:43.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\Program.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\Program.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:59:37.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vidu.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong03\\vidu.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong03\\vidu.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong03\\vidu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:59:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViduMang.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\ViduMang.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\ViduMang.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\ViduMang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:59:19.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baitap01.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap01.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\Baitap01.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap01.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\Baitap01.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:12:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Baitap02.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap02.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\Baitap02.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Baitap02.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\Baitap02.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:11:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp-Chuong04\\Program.cs",
+              "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong04\\Program.cs",
+              "RelativeToolTip": "ConsoleApp-Chuong04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:20:33.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "ConsoleApp-Chuong02\\Program.cs",
               "ToolTip": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\Program.cs",
               "RelativeToolTip": "ConsoleApp-Chuong02\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEQAAAA1AAAA",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T01:00:10.826Z",
               "EditorCaption": ""
@@ -172,6 +172,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T01:20:33.609Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
